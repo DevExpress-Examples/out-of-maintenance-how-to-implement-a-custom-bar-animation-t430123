@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainForm.cs](./CS/CustomBarAnimationExample/MainForm.cs) (VB: [MainForm.vb](./VB/CustomBarAnimationExample/MainForm.vb))
+* **[ZoomInFromCenterBarAnimation.cs](./CS/CustomBarAnimationExample/ZoomInFromCenterBarAnimation.cs) (VB: [ZoomInFromCenterBarAnimation.vb](./VB/CustomBarAnimationExample/ZoomInFromCenterBarAnimation.vb))**
+<!-- default file list end -->
 # How to implement a custom bar animation
 
 
